@@ -32,3 +32,7 @@ Once the final node is reached, a stream of purple colour backtracks to find the
 ## A* Algorithm Pathfinding Visualization using red stream
 
 ![Screenshot (206)](https://user-images.githubusercontent.com/70435148/189088025-8e9c3e97-c0e6-4a00-8f28-734a843d0a0a.png)
+
+## Shortest Path highlighted with purple stream
+
+![Screenshot (207)](https://user-images.githubusercontent.com/70435148/189088613-a46d987d-e4df-4b5e-becc-542710aa0f39.png)
